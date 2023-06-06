@@ -1,0 +1,12 @@
+h1
+{
+    width: 100%;
+    background-color: yellow;
+    float: left;
+    top:0
+}
+
+#inst
+{
+    float: right;
+}
